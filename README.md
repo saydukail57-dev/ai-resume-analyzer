@@ -16,3 +16,5 @@ AI-powered Resume Analyzer & Skill Matcher built using Python and Streamlit.
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
+## Preview
+![App Screenshot](app-preview.png)
